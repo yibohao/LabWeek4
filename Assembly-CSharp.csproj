@@ -59,6 +59,7 @@
     <Compile Include="Assets/Scenes/Test.cs" />
     <Compile Include="Assets/Scripts/ProgressEvaluator.cs" />
     <Compile Include="Assets/Scripts/LoadAssets.cs" />
+    <Compile Include="Assets/Scripts/PrintAndHide.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
